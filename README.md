@@ -7,7 +7,7 @@ This was my first project in analytics, where I used Python and Tableau to manip
 • Created a Tableau dashboard to visualise the insights gathered from Python analysis.
 • Used analysis results to pick top players in 40 matches of fantasy cricket, which increased the winning rate by about 20%.
 
-# Project-2: Purchase Prediction for Financial Product (Predictive Analytics)(https://github.com/SHAH-X/Purchase_Prediction.git)
+# Project-2: Purchase Prediction for Financial Product(https://github.com/SHAH-X/Purchase_Prediction.git)
 
 • Analysed past marketing campaign dataset using Python to predict client purchase decisions with an accuracy of 83.5%.
 • Pre‐processed data through exploratory data analysis, removed outliers and missing values, and performed standardization and feature engineering.
