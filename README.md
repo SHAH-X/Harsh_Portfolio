@@ -3,9 +3,9 @@
 # Project-1: Cricket Analytics (Descriptive Analytics)
 
 This was my first project in analytics, where I used Python and Tableau to manipulate data and generate insights respectively.
-• Analysed data from approximately 70 matches by developing a comprehensive player analysis algorithm in Python and derived 20+ performance indicators.
-• Created a Tableau dashboard to visualise the insights gathered from Python analysis.
-• Used analysis results to pick top players in 40 matches of fantasy cricket, which increased the winning rate by about 20%.
+* Analysed data from approximately 70 matches by developing a comprehensive player analysis algorithm in Python and derived 20+ performance indicators.
+* Created a Tableau dashboard to visualise the insights gathered from Python analysis.
+* Used analysis results to pick top players in 40 matches of fantasy cricket, which increased the winning rate by about 20%.
 
 # [Project-2: Purchase Prediction for Financial Product](https://github.com/SHAH-X/Purchase_Prediction.git)
 
