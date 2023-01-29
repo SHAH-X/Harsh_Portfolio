@@ -1,6 +1,6 @@
 # Harsh Shah Analytics Portfolio
 
-# Project-1: Cricket Analytics (Descriptive Analytics)
+# [Project-1: Cricket Analytics (Descriptive Analytics)](https://github.com/SHAH-X/Cricket-Analytics.git)
 
 This was my first project in analytics, where I used Python and Tableau to manipulate data and generate insights respectively.
 * Analysed data from approximately 70 matches by developing a comprehensive player analysis algorithm in Python and derived 20+ performance indicators.
@@ -14,7 +14,7 @@ This was my first project in analytics, where I used Python and Tableau to manip
 * Built and evaluated performance of five ML classifier models‐Logistic Regression, Decision Tree, Random Forest, K‐NN, Naive Bayes to identify the best prediction model based on business use case.
 * Trained and deployed the selected model for implementation. Provided business recommendations for future analysis.
 
-# Project-3: Production Problem (Prescriptive Analytics)
+# [Project-3: Production Problem (Prescriptive Analytics)](https://github.com/SHAH-X/Production-Problem.git)
 
 * Modelled a paper mill production problem as a Linear Programming problem by considering demand, cutting scheme, wastage, overproduction and production cost.
 * Formulated the problem using decision variables, objective function, constraints and deviation variables.
