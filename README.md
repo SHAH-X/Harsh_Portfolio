@@ -3,10 +3,8 @@
 
 # [Project-1: Customer Segmentation (Predictive Analytics - Unsupervised)](https://github.com/SHAH-X/Customer_Segmentation.git)
 
-* Analysed past marketing campaign dataset using Python to predict client purchase decisions with an accuracy of 83.5%.
-* Pre‐processed data through exploratory data analysis, removed outliers and missing values, and performed standardization and feature engineering.
-* Built and evaluated performance of five ML classifier models‐Logistic Regression, Decision Tree, Random Forest, K‐NN, Naive Bayes to identify the best prediction model based on business use case.
-* Trained and deployed the selected model for implementation. Provided business recommendations for future analysis.
+* Segmented customers based on spending habits using transactional data, using K-means clustering in Python. Applied data transformation and dimensionality reduction to improve the results of clustering.
+* Utilised data visualisation and silhouette score to evaluate the clusters. Conducted statistical analysis to create pen profiles for five clusters
 
 # [Project-2: Purchase Prediction for Financial Product (Predictive Anlaytics - Supervised)](https://github.com/SHAH-X/Purchase_Prediction.git)
 
